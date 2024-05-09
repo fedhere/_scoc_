@@ -1,6 +1,7 @@
+
 **Simulate BBH and NBH ToOs**
 
-_N total = 22_
+**N total = 22**
 
 All after June 2027 and before January 2030 _should we simulate the yield or the population??_
 
@@ -16,7 +17,7 @@ Case E) 12 triggers with 500 sq deg area -> yelds 2 observable. Only cover if ce
 
 Simulate Tw observability window of area of interest randomly
 
-**A:**
+**A:** (3)
 *  Night 0:
       
         if Tw> 4.7h:
@@ -38,7 +39,7 @@ Simulate Tw observability window of area of interest randomly
         4x(u)griz(y) x 1 pass
   
 
-**B/C:**
+**B/C:** (13)
 * Night 0:
 
       if Tw> 4.7h:
@@ -61,7 +62,7 @@ Simulate Tw observability window of area of interest randomly
       6xri x 1 pass
       
 
-**D/E:**
+**D/E:** (6)
 * Night 0:
 
         1xgr x 1 pass
@@ -76,7 +77,7 @@ Simulate Tw observability window of area of interest randomly
 
 **Simulate lensed BNS ToOs**
 
-_N total = 2_
+**N total = 2**
 
 All after June 2027 and before January 2030
 
@@ -84,20 +85,20 @@ Case A) 1 trigger 900 sq deg in observable sky
 
 Case B) 1 trigger 15 sq deg in observable sky
 
-**A:** 
+**A:** (1)
 
 * Night >= 0:
   
-    1xg + 3xr x 1 pass
+          1xg + 3xr x 1 pass
 
-**B:**
+**B:** (1)
   * Night >= 0:
   
-    50xg + 50xr x 1 pass
+          50xg + 50xr x 1 pass
 
 **Simulate BBH ToOs**
 
-_N total = 7_
+**N total = 7**
 
 All after June 2027 and before January 2030
 
@@ -108,12 +109,14 @@ Case B) 6 triggers with 20 sq deg area -> yields 2 observable
 Case C) 6 triggers with 30 sq deg area -> yields 2 observable
 
 
-**A/B/C**
+**A/B/C** (7)
 
-if bright: filters = (u)g(r)i 
+if bright: 
+            filters = (u)g(r)i 
 
-else: filters = riz
+else: 
+            filters = riz
 
 * Night 0,2,7,9,39:
   
-      1xfilters x 1 pass
+            1xfilters x 1 pass
