@@ -3,7 +3,7 @@
 **Simulate neutrino ToO**
 only simulate Galactic Latitude > 10 deg
 
-**N total** = 40 (4/year)
+**N total** = 40 (4/year) triggers
 
 **Area** = 7 sq deg (one pointing)
 t0 = time of trigger
