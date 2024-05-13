@@ -75,48 +75,4 @@ Simulate Tw observability window of area of interest randomly
   
         4xgr x 1 pass
 
-**Simulate lensed BNS ToOs**
 
-**N total = 2**
-
-All after June 2027 and before January 2030
-
-Case A) 1 trigger 900 sq deg in observable sky
-
-Case B) 1 trigger 15 sq deg in observable sky
-
-**A:** (1)
-
-* Night >= 0:
-  
-          1xg + 3xr x 1 pass
-
-**B:** (1)
-  * Night >= 0:
-  
-          50xg + 50xr x 1 pass
-
-**Simulate BBH ToOs**
-
-**N total = 7**
-
-All after June 2027 and before January 2030
-
-Case A) 9 triggers with 10 sq deg area -> yields 3 observable
-
-Case B) 6 triggers with 20 sq deg area -> yields 2 observable
-
-Case C) 6 triggers with 30 sq deg area -> yields 2 observable
-
-
-**A/B/C** (7)
-
-if bright: 
-            filters = (u)g(r)i 
-
-else: 
-            filters = riz
-
-* Night 0,2,7,9,39:
-  
-            1xfilters x 1 pass
