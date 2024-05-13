@@ -2,7 +2,7 @@
 
 **Simulate SSO ToO**
 
-**N total** = 300 (30/year)
+**N total** = 300 (30/year) triggers
 
 **Area**: 10 sq deg
 
