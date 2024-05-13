@@ -1,7 +1,7 @@
 
 **Simulate BBH and NBH ToOs**
 
-**N total = 22**
+**N total = 22** triggers
 
 All after June 2027 and before January 2030 _should we simulate the yield or the population??_
 
