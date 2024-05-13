@@ -1,5 +1,5 @@
 
-**Simulate BBH and NBH ToOs**
+**Simulate BBH and NBH ToOs** (for lensed BNS and BBH see https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_lensedBNS.md and https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_BBH.md)
 
 **N total = 22** triggers
 
