@@ -2,7 +2,18 @@
 
 **Simulate SSO ToO**
 
-**N total** = 300 (30/year) triggers
+**SCHEMA (different from earlier simulations):**
+
+1) simulate 3xNtriggers where Ntrigger is the number of recommended triggers as all-sky events.
+2) follow up any of the area that is visible, regardless of the location of the trigger
+3) simulate
+- 1 run with 3x3/4xNtriggers
+- 1 run with 3x4/5xNtriggers
+- 1 run with 3xNtriggers
+- 1 run with 3x6/5xNtriggers
+- 1 run with 3x5/4xNtriggers
+
+**Ntriggers** = 300 (30/year) triggers
 
 **Area**: 10 sq deg
 
