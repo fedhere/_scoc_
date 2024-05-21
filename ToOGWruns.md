@@ -1,9 +1,14 @@
 
+
+
 **Simulate BBH and NBH ToOs** (for lensed BNS and BBH see https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_lensedBNS.md and https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_BBH.md)
+**SCHEMA (different from earlier simulations)**: 
+1) simulate 3x the number of recommended triggers as all-sky events.
+2) follow up any of the area that is visible, regardless of the location of the trigger
 
 **N total = 22** triggers
 
-All after June 2027 and before January 2030 _should we simulate the yield or the population??_
+All after June 2027 and before January 2030 
 
 Case A) 9 triggers with 30 sq deg area -> yealds 3 visible. Only cover if center in footprint
 
