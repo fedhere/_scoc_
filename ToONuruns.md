@@ -1,12 +1,12 @@
 
 
 **Simulate neutrino ToO**
-only observe if Galactic Latitude < 10 deg
+only observe if Galactic Latitude > |10 deg|
 
 **SCHEMA (different from earlier simulations):**
 
-simulate 3xNtriggers where Ntrigger is the number of recommended triggers as all-sky events.
-follow up any of the area that is visible **and Galactic Latitude <10deg**
+simulate 4xNtriggers where Ntrigger is the number of recommended triggers as all-sky events.
+follow up any of the area that is visible **and Galactic Latitude >|10 deg|** _QUESTION: I think the factor should be 4 not three if the constrain is latitude >|10 deg|)
 
 
 **Ntrigger** = 40 (4/year) triggers
