@@ -1,33 +1,33 @@
 
 
 **Simulate neutrino ToO**
-only simulate Galactic Latitude > 10 deg
+only observe if Galactic Latitude > 10 deg
 
-**N total** = 40 (4/year) triggers
+**Ntrigger** = 40 (4/year) triggers
 
 **Area** = 7 sq deg (one pointing)
 t0 = time of trigger
 
 * Night 0: 
 
-        4xg @ t=t0
+        [g] @ t=t0 120sec
 
-        1xr @ t=t0 + 15 minutes
+        [r] @ t=t0 + 15 minutes
 
-        1xz within the night
+        [z] within the night
 
 * Night 1: 
 
-        4xg @ t=t0
+        [g] @ t=t0 120s
 
-        1xr @ t=t0 + 15 minutes
+        [r] @ t=t0 + 15 minutes
 
 * 6 <= Night <= 8:
 
-        4xg @ t=t0
+        [g] @ t=t0 120sec
 
-        1xr @ t=t0 + 15 minutes
+        [r] @ t=t0 + 15 minutes
 
 * 0 <= Night <= 60: first night with u-band filter after t0
     
-        1xu
+        [u]
