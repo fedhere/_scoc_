@@ -1,7 +1,7 @@
 
 
 
-**Simulate BBH and NBH ToOs** (for lensed BNS and BBH see https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_lensedBNS.md and https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_BBH.md)
+**Simulate BNS and NBH ToOs** (for lensed BNS and BBH see https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_lensedBNS.md and https://github.com/fedhere/_scoc_/blob/main/ToOGWruns_BBH.md)
 
 **SCHEMA (different from earlier simulations)**: 
 1) simulate 3xNtriggers where Ntrigger is the number of recommended triggers as all-sky events.
